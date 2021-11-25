@@ -1,0 +1,12 @@
+body {
+  background: #e2d3d3;
+}
+h1 {
+  text-align: center;
+}
+img {
+  width: 80%;
+  margin: 20px auto;
+  border-radius: 20px;
+  display: block;
+}
